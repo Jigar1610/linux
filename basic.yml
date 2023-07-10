@@ -38,7 +38,7 @@ Linux
  - git add file name --> track repository and also add new file as well
  - git status --short --> it can show which new file added
  - rm file name --> remove the file but not in repository
- - 
+ 
 
    
 
