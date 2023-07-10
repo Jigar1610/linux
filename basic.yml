@@ -1,0 +1,50 @@
+Linux
+ - date --> this command will show the date
+ - cal --> showcase calender
+ - whoami --> this will show current user of the machine
+ - clear or ctrl + L --> this will clear your shell commands
+ - pwd --> show current location of your folder
+ - ls --> List the folder and files 
+ - cd --> we can go inside the folder
+ - ls -ltr --> List details of folder and files (output of the contain show)
+ - mkdir --> to create a folder 
+ - help --> advice of any command 
+ - nano editor 
+ - cat command  ---> cat filename
+ - mv introduction.txt intro.txt --> move from one file to another file
+ - cp intro.txt anotherintro.txt --> copy one file to another file
+ - cp -r folder1 folder2 ---> copy one folder to another folder
+ - rm intro.txt --> remove file
+ - rm -rf foldername --> remove folder
+   - folder must be empty if you want to remove without parameter
+   - you can rempve folder recurrively if you provide -r parameter
+ - less filename --> this will allow from line by line 
+ - tail filename ---> it show last 10 line 
+ - head filename ---> it show top 10 line 
+ - tail -n 3 filename --> it show last 3 line
+ - head -n 3 filename --> it show top 3 line
+ - touch filename -->  it create empty file
+ - touch {1..3}filename --> it create 1 to 3 multiple file
+  -1 filename
+  -2 filename
+  -3 filename
+ - echo --> created output of the command ("must be in double comma")
+ - echo "output of the content" > filename --> file is created by filename and output gone on that file name.
+ - echo "content" >> filename --> you can get content on next line 
+ 
+ Git bash 
+ - touch filename --> create empty file
+ - git status --> check file status 
+ - git add file name --> track repository and also add new file as well
+ - git status --short --> it can show which new file added
+ - rm file name --> remove the file but not in repository
+ - 
+
+   
+
+
+
+
+
+ 
+
